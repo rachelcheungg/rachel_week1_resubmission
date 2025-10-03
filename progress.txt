@@ -21,3 +21,27 @@ Description: "Opened GitHub and added a new line to the progress.txt file"
 
 Que 8 - git pull origin main - progress.txt edited on: local machine - command ran on: local machine
 Description: "Pulled the updated version of progress.txt from GitHub"
+
+Que 9 - git branch feature1 - progress.txt edited on: local machine - command ran on: local machine
+Description: "Created a new branch for a feature"
+
+Que 10 - git checkout feature1 - progress.txt edited on: local machine - command ran on: local machine
+Description: "Switched to the new branch"
+
+Que 11 - Edited app.py - progress.txt edited on: local machine - command ran on: local machine
+Description: "Opened app.py and added a new line"
+
+Que 12 - git add app.py, git commit -m "Updated Hello World on feature1 branch" - progress.txt edited on: local machine - command ran on: local machine
+Description: "Added and committed the change"
+
+Que 13 - git checkout main - progress.txt edited on: local machine - command ran on: local machine
+Description: "Switched back to the main branch"
+
+Que 14 - git merge feature1 - progress.txt edited on: local machine - command ran on: local machine
+Description: "Merged feature1 into main"
+
+Que 15 - git push - progress.txt edited on: local machine - command ran on: local machine
+Description: "Pushed the updated main branch to GitHub"
+
+Que 16 - git branch -d feature1 - progress.txt edited on: local machine - command ran on: local machine
+Description: "Deleted the feature branch locally"
