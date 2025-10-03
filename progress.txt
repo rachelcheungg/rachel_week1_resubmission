@@ -49,3 +49,5 @@ Description: "Deleted the feature branch locally"
 Que 17 - git checkout -b test-branch, git push -u origin test-branch - progress.txt edited on: local machine - command ran on: local machine
 Description: "Created a new remote branch and pushed it"
 
+Que 18 - git branch -a - progress.txt edited on: local machine - command ran on: local machine
+Description: "Viewed all branches (local and remote)"
