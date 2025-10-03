@@ -1,0 +1,17 @@
+Que 1 - git init - progress.txt edited on: local machine - command ran on: local machine
+Description: "Initialized a Git repository in my project folder"
+
+Que 2 - echo "Hello World" > app.py - progress.txt edited on: local machine - command ran on: local machine
+Description: "Created a sample Python file using echo command"
+
+Que 3 - git add . - progress.txt edited on: local machine - command ran on: local machine
+Description: "Added all current files to the staging area" 
+
+Que 4 - git commit -m "Initial commit" - progress.txt edited on: local machine - command ran on: local machine
+Description: "Committed the staged files with a message"
+
+Que 5 - git remote add origin <repo-url> - progress.txt edited on: local machine - command ran on: local machine
+Description: "Linked the local repository to GitHub repository"
+
+Que 6 - git push -u origin main - progress.txt edited on: local machine - command ran on: local machine
+Description: "Pushed my initial commit to GitHub"
