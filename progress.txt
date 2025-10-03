@@ -18,3 +18,6 @@ Description: "Pushed my initial commit to GitHub"
 
 Que 7 - Edited progress.txt directly on GitHub - progress.txt edited on: GitHub website - command ran on: GitHub website
 Description: "Opened GitHub and added a new line to the progress.txt file"
+
+Que 8 - git pull origin main - progress.txt edited on: local machine - command ran on: local machine
+Description: "Pulled the updated version of progress.txt from GitHub"
