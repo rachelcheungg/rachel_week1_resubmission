@@ -54,3 +54,6 @@ Description: "Viewed all branches (local and remote)"
 
 Que 19 - git status - progress.txt edited on: local machine - command ran on: local machine
 Description: "Check current status of working directory"
+
+Que 20 -  git log --oneline --graph - progress.txt edited on: local machine - command ran on: local machine
+Description: "See last few commits as one-line summary with graph"
