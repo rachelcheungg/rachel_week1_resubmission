@@ -15,3 +15,6 @@ Description: "Linked the local repository to GitHub repository"
 
 Que 6 - git push -u origin main - progress.txt edited on: local machine - command ran on: local machine
 Description: "Pushed my initial commit to GitHub"
+
+Que 7 - Edited progress.txt directly on GitHub - progress.txt edited on: GitHub website - command ran on: GitHub website
+Description: "Opened GitHub and added a new line to the progress.txt file"
